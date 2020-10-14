@@ -1,0 +1,53 @@
+header {
+    border-style: dashed;
+    border-width: 100px;
+    border-color: darkblue;
+    text-align: center;
+    font-size: 3rem;
+    background-color: aliceblue;
+}
+
+footer {
+    border-style: dashed;
+    border-width: 100px;
+    border-color: darkblue;
+    background-color: lawngreen;
+}
+
+main {
+    background-color: bisque;
+}
+
+body {
+    font-family: Helvetica, sans-serif;
+}
+
+.book {
+    font-style: italic;
+}
+
+h1 {
+    color: lightpink;
+}
+
+h2 {
+    color: lemonchiffon;
+}
+
+h3 {
+    color: lavenderblush;
+}
+
+a:hover {
+    color: yellow;
+}
+
+nav {
+    font-size: 3rem;
+    word-spacing: 10px;
+    text-align: center;
+}
+
+ul {
+    list-style-type: none;
+}
